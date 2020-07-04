@@ -1,0 +1,9 @@
+def main() {
+  var a = [[1, 2, 3, 4],[5, 6, 7, 8],[9, 10, 11, 12]];
+  var b = sum(a);
+  var c = max(a);
+  var d = min(a);
+  print(b);
+  print(c);
+  print(d);
+}
