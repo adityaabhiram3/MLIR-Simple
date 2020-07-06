@@ -1,5 +1,7 @@
 # Toy-Language-Extension
 
+Added Max, Min, Sum, Conv operations 
+
 Instructions To Run
 
 build/bin/toyc-ch12 "filename".sim -emit=mlir
