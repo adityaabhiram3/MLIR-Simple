@@ -1,4 +1,4 @@
-# Toy-Language-Extension
+# MLIR - Introducing the Simple Language
 
 Added Max, Min, Sum, Conv operations 
 
